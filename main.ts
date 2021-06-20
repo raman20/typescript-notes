@@ -155,5 +155,5 @@ class Manager extends Employee {
 }
 
 let m1: Manager;
-
 m1 = new Manager("raman");
+m1.work();
